@@ -1,9 +1,3 @@
-/*
- * Item_detect_implementation.h
- *
- *  Created on: May 2, 2014
- *      Author: Krithika
- */
 #include<Item_detect_constructors.h>
 #include<Item_detect_interface.h>
 #include <cv.h>

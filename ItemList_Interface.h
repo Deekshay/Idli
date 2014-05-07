@@ -1,10 +1,3 @@
-/*
- * ItemList_Interface.h
- *
- *  Created on: May 2, 2014
- *      Author: Krithika
- */
-
 #include <cv.h>
 #include <highgui.h>
 #include <stdio.h>

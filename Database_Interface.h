@@ -1,9 +1,3 @@
-/*
- * Database_Interface.h
- *
- *  Created on: May 2, 2014
- *      Author: Krithika
- */
 #include<Item_Interface.h>
 #include<Item_Interface.h>
 #include<Item_Interface_detect_constructors.h>

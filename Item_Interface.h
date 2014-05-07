@@ -1,9 +1,3 @@
-/*
- * rc.h
- *
- *  Created on: Apr 21, 2014
- *      Author: Krithika
- */
 #include<Item_detect_constructors.h>
 #include<Item_detect_interface.h>
 #include<Item_detect_implementation.h>

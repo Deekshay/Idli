@@ -1,12 +1,3 @@
-/*
- * Objectdetect.h
- *
- *  Created on: May 2, 2014
- *      Author: Krithika
- */
-
-
-
 #include <ItemList_Interface.h>
 #include <cv.h>
 #include <highgui.h>

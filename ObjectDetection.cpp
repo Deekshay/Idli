@@ -1,12 +1,3 @@
-/*
- * ObjectDetection.cpp
- *
- *  Created on: Apr 24, 2014
- *      Author: Srinivasan
- */
-
-
-
 #include <cv.h>
 #include <highgui.h>
 #include <stdio.h>

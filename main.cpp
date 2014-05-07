@@ -1,10 +1,3 @@
-/*
- * trial1.cpp
-
- *
- *  Created on: Apr 15, 2014
- *      Author: Krithika
- */
 #include<Database_Interface.h>
 #include<Database_Interface_implementation.h>
 #include<Item_Interface.h>
